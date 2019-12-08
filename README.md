@@ -1,2 +1,2 @@
 # Transpose-of-Matrix-using-java
-intellij idea
+I had run this code on Intellij Idea
